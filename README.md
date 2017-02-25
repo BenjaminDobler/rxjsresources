@@ -1,6 +1,8 @@
 # rxjsresources
 Just a collection of links for learning rxjs
 
+# General
+[The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 
 # Operators
 [Learn RXJS](https://www.learnrxjs.io/)
@@ -17,5 +19,12 @@ https://css-tricks.com/animated-intro-rxjs/
 
 [Build dropdown list with RxJS](http://neethack.com/2015/11/build-dropdown-list-with-rxjs/)
 
+# ngrx/store
+[https://gist.github.com/btroncone/a6e4347326749f938510](https://gist.github.com/btroncone/a6e4347326749f938510)
+
 # Influencers
 [Ben Lesh](https://twitter.com/BenLesh)
+[Brian Troncone](https://twitter.com/btroncone)
+[André Staltz](https://twitter.com/andrestaltz)
+
+
