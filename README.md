@@ -1,4 +1,4 @@
-# rxjsresources
+# rxjs resources
 Just a collection of links for learning rxjs
 
 # General
