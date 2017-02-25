@@ -16,3 +16,6 @@ https://css-tricks.com/animated-intro-rxjs/
 [Infinite scroll in Angular an RxJS](http://blog.brecht.io/infinite-scroll-with-rxjs-and-angular2/)
 
 [Build dropdown list with RxJS](http://neethack.com/2015/11/build-dropdown-list-with-rxjs/)
+
+# Influencers
+[Ben Lesh](https://twitter.com/BenLesh)
