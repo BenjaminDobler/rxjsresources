@@ -19,6 +19,8 @@ https://css-tricks.com/animated-intro-rxjs/
 
 [Build dropdown list with RxJS](http://neethack.com/2015/11/build-dropdown-list-with-rxjs/)
 
+[Infinite Scroll (Slides)](http://slides.com/theefer/infinite-scroll-ngrxjs#/18)
+
 # ngrx/store
 [https://gist.github.com/btroncone/a6e4347326749f938510](https://gist.github.com/btroncone/a6e4347326749f938510)
 [@ngrx/store in 10 minutes](https://egghead.io/lessons/angular-2-ngrx-store-in-10-minutes)
