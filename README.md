@@ -30,4 +30,7 @@ https://css-tricks.com/animated-intro-rxjs/
 [Brian Troncone](https://twitter.com/btroncone)
 [André Staltz](https://twitter.com/andrestaltz)
 
+# Books
+[RxJs in Action](https://www.manning.com/books/rxjs-in-action) Release in april, MEAP available, really good so far! 
+
 
