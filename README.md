@@ -21,6 +21,7 @@ https://css-tricks.com/animated-intro-rxjs/
 
 # ngrx/store
 [https://gist.github.com/btroncone/a6e4347326749f938510](https://gist.github.com/btroncone/a6e4347326749f938510)
+[@ngrx/store in 10 minutes](https://egghead.io/lessons/angular-2-ngrx-store-in-10-minutes)
 
 # Influencers
 [Ben Lesh](https://twitter.com/BenLesh)
